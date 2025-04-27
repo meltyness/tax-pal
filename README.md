@@ -4,7 +4,7 @@ Sometimes, you forgot the syntax or something. This can help you come up with mo
 # Installation
 Configure ollama on your local machine:
 - https://ollama.com/blog/ollama-is-now-available-as-an-official-docker-image
-> [!INFO]
+> [!NOTE]
 > If you don't use a GPU, you'll need to amend the `ollama` script.
 
 Import the `ollama` script into your path.
